@@ -1,8 +1,8 @@
-# fmca
+# Modular Clean Architecture for Flutter
 
 Modular Clean Architecture for Flutter
 
-## Getting Started
+## Flutter Getting Started
 
 This project is a starting point for a Flutter application.
 
